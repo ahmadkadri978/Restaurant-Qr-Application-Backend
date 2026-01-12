@@ -74,7 +74,7 @@ All staff endpoints require:
 
 ### Staff APIs (JWT Required)
 - GET /api/v1/staff/orders
-- GET /api/v1/staff/orders/{id}
+- GET /api/v1/staff/orders/{orderId}
 - PATCH /api/v1/staff/orders/{orderId}/sent-to-kitchen
 - GET /api/v1/staff/service-calls
 
